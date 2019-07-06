@@ -1,5 +1,6 @@
 # AppstoreVersionChecker
-Apple version Check 
-
 
 Language : Objective C
+
+Purpose : Version check with Installed application through Appstore.
+
